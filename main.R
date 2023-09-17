@@ -1,3 +1,5 @@
 library(lattice)
 
 getwd()
+
+ls()
