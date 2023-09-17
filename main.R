@@ -1,0 +1,3 @@
+library(lattice)
+
+getwd()
